@@ -1,15 +1,2 @@
 Name,IP,Port
 Localhost,127.0.0.1,9999
-dir Volume in drive C has no label.
- Volume Serial Number is 5C5B-D377
-
- Directory of C:\Users\StillSlow\Desktop\AuraRat\tests
-
-2023-08-17  11:33 PM    <DIR>          .
-2023-08-17  11:31 PM    <DIR>          ..
-2023-08-17  11:31 PM             1,411 clienttest.py
-2023-08-17  11:36 PM             5,310 test.py
-2023-08-17  11:23 PM                40 userlist.csv
-               3 File(s)          6,761 bytes
-               2 Dir(s)  58,594,693,120 bytes free
-exit
